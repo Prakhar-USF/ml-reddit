@@ -80,6 +80,7 @@ Engineered from scraped data
 ## Group 2: Parent based features
 
 - `is_root`: whether or the comment is a parent
+- `parent_score`: score of parent comment (NaN if comment doesn't have a parent)
 
 ## Group 3: Thread based Features
 
