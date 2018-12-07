@@ -67,6 +67,6 @@ Engineered from scraped data
 - `parent_cos_angle`: consine similarity between comment and its parent comment's embeddings
 - `title_cos_angle`: consine similarity between comment and its thread's title's embeddings
 
-## Added for Final Dataset
+### Added for Final Dataset
 - `no_past_comments`: number of comments on thread before this comment was posted
 - `score_till_now`: score of thread at the time this comment was posted
