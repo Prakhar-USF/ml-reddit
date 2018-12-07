@@ -19,7 +19,7 @@ Finalized notebooks are:
 * [List of final features for model fitting](data_processing/features.md)
 * [Model fitting and model comparison](model_fitting/model_fitting.ipynb)
 
-The draft code is saved here for the purpose of future review [/drafts]
+The draft code is saved [here](/drafts) for the purpose of future review 
 
 # Objective
 
