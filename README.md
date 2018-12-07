@@ -1,6 +1,8 @@
 
 # MSAN 621 Final Project
+
 Team: Data Explorers
+
 Team members: 
 
 * Adam Reevesman
