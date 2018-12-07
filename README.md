@@ -1,4 +1,25 @@
-# ml-reddit
+
+# MSAN 621 Final Project
+
+Team: Data Explorers
+
+Team members: 
+
+* Adam Reevesman
+* Gokul Krishna Guruswamy
+* Hai Le
+* Maximillian Alfaro
+* Prakhar Agrawal
+
+# Resources in this repository
+
+The code for this project is divided into several notebooks, each of which regards a part of the workflow that we went through. Both final versions and their [drafts](/drafts) are saved here for the purpose of future review.
+
+The finalized notebooks that combine into our entire work includes:
+
+* Step 1: [Extracting data](data_processing/extract_Data.ipynb) and [scraping extra data](scraping/Scrape.ipynb) 
+* Step 2: [Data processing and feature engineering](data_processing/data_processing.ipynb). At the end of this process, we arrive at this [list of final features](data_processing/features.md) which we used to fit our models.
+* Step 3: [Model fitting and model comparison](model_fitting/model_fitting.ipynb). In this notebook, we fitted different linear and non-linear models to the dataset, evaluate and compare their performance.
 
 # Objective
 
@@ -6,10 +27,10 @@ To predict how many __upvotes__ a comment will get, given the comment text, user
 
 # Data Source
 
-For now we will work with the following data, if in future we find that this data lacks variety, we can use switch to data from different source (There are quite few sources for reddit data, shouldn't be a problem).
+We use 2 sources of data: 
 
-* [data source link](https://github.com/linanqiu/reddit-dataset)  [don't use]  
-  [use this](https://mega.nz/#F!NtsCGTgD!urXdXLJ6yITYdWEdWN-H1w)
+* Comments Dataset [available here](https://mega.nz/#F!NtsCGTgD!urXdXLJ6yITYdWEdWN-H1w)
+* Threads Dataset scraped using Reddit API using [this code](/scraping/Scrape.ipynb)
 
 # Reference Papers/Write-ups
 
