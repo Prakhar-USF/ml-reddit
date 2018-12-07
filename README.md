@@ -13,7 +13,7 @@ Team members:
 
 # Resources in this repository
 
-The code fof this project is divided into several notebooks, each of which regards a part of the workflow that we went through. Both final versions and their [drafts](/drafts) is saved here for the purpose of future review.
+The code for this project is divided into several notebooks, each of which regards a part of the workflow that we went through. Both final versions and their [drafts](/drafts) are saved here for the purpose of future review.
 
 The finalized notebooks that combine into our entire work includes:
 
