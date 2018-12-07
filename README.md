@@ -13,13 +13,13 @@ Team members:
 
 # Resources in this repository
 
-Finalized notebooks are: 
-* [Data processing and feature engineering code](data_processing/data_processing.ipynb)
-* [Data scraping code](data_processing/extract_Data.ipynb)
-* [List of final features for model fitting](data_processing/features.md)
-* [Model fitting and model comparison](model_fitting/model_fitting.ipynb)
+The code fof this project is divided into several notebooks, each of which regards a part of the workflow that we went through. Both final versions and their [drafts](/drafts) is saved here for the purpose of future review.
 
-The draft code is saved [here](/drafts) for the purpose of future review 
+The finalized notebooks that combine into our entire work includes:
+
+* Step 1: [Scraping extra data](data_processing/extract_Data.ipynb)
+* Step 2: [Data processing and feature engineering](data_processing/data_processing.ipynb). At the end of this process, we arrive at this [list of final features](data_processing/features.md) which we used to fit our models.
+* Step 3: [Model fitting and model comparison](model_fitting/model_fitting.ipynb). In this notebook, we fitted different linear and non-linear models to the dataset, evaluate and compare their performance.
 
 # Objective
 
