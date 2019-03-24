@@ -1,7 +1,5 @@
 
-# MSAN 621 Final Project
-
-Team: Data Explorers
+# Reddit comment up-votes prediction
 
 Team members: 
 
